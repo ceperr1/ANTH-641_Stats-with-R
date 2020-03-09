@@ -18,5 +18,5 @@ Once you've forked this repo, set up your own binder using your new GitHub repo 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ceperr1/ANTH-641_Stats-with-R/master)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kgarstki/Working-with-R/master)
+
 
